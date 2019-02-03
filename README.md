@@ -9,7 +9,7 @@
 4f55059418c1        mongo:3.6                   "docker-entrypoint.s…"   1 minutes ago      Up 28 minutes       0.0.0.0:27017->27017/tcp   hello-world_mongo_1`
 
 ## Install node modules
-`npm init`
+`npm install`
 
 ## To start 
 `node index.js`
